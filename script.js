@@ -268,7 +268,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
      
         case 16:
-                document.getElementById('noBtn').innerHTML = 'pleaseeeeeee';
+                document.getElementById('noBtn').innerHTML = 'pleaseeeeeee!';
                 document.getElementById('noBtn').style.backgroundColor = '#F1330A';
               
                 document.getElementById('sadGifContainer').style.display = 'none';

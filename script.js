@@ -20,7 +20,9 @@ document.getElementById('siBtn').addEventListener('click', function() {
 
    // Show the message container and set its content
 document.getElementById('messageContainer').style.display = 'block';
-document.getElementById('messageContainer').innerHTML = 'Oh yeah! ha ha ha';
+//document.getElementById('messageContainer').innerHTML = 'Oh yeah! ha ha ha';
+document.getElementById('messageContainer').innerHTML = 'I LOVE YOUUUUU';
+
 
 // Create a button element
 /*var nextButton = document.createElement('button');
